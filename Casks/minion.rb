@@ -1,6 +1,6 @@
 cask "minion" do
-  version "1.1.1"
-  sha256 "aa2756836fb0e3e709e38b8ea85697c4c6a19d319f707a09fdd21b9ae8e2366a"
+  version "1.2.0"
+  sha256 "9c1ee603c39aaf145e9c511825bde50a2c1e1b67a1641b3a716ab97bfa218808"
   url "https://github.com/3kwa/minion/releases/download/v#{version}/minion-darwin-arm64-#{version}.zip"
   name "minion"
   desc "a minimalistic HTML/CSS/JavaScript viewer"
